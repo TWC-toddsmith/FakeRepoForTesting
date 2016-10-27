@@ -1,2 +1,4 @@
-Version 1.0
+Version 2.0
 this is a test.
+
+NOTE: Version 2 is really a mistake that should have been added on another branch.
